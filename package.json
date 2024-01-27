@@ -2,7 +2,7 @@
   "name": "localstorage",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/localStaorage",
+  "homepage": "https://goitacademy.github.io/localStorage",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /parcel-project-template/"
